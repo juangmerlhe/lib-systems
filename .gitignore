@@ -1,0 +1,6 @@
+test_map
+test_arena
+test_da
+*.o
+*.exe
+.DS_Store
