@@ -1,7 +1,7 @@
 # lib-systems
 
 A collection of high-performance, hand-written core utilities for systems programming in C. 
-Designed to be the standard library for my future projects (HTTP Server, Satellite Scheduler, etc.).
+Designed to be the standard library for my future projects.
 
 ## 🧩 Modules
 
