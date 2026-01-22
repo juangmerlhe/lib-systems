@@ -3,7 +3,7 @@
 A collection of high-performance, hand-written core utilities for systems programming in C. 
 Designed to be the standard library for my future projects.
 
-## 🧩 Modules
+## Modules
 
 ### 1. Memory Arena (`arena.h`)
 A linear memory allocator for high-performance, cache-friendly memory management. 
@@ -19,7 +19,7 @@ An open-addressing hash map implementation.
 ### 3. Dynamic Array (`da.h`)
 A resizeable array implementation for C.
 
-## 🛠️ Build & Test
+## Build & Test
 
 This project uses a unified Makefile for testing.
 
